@@ -1,6 +1,9 @@
-# alv_splitter
-Display more than one screen on the screen $ALVSPLITTER
+# using cl_gui_splitter_container 
 
+<h3> Display more than one ALV on one screen $ALVSPLITTER  </h3>
+
+ This repository has been developed to show one example about displaying two or more ALV on one screen. 
+For any question you can send me a dm via linkedin.
 
 Final Output ⬇
 
